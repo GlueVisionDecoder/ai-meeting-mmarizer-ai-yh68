@@ -1,4 +1,4 @@
-# 
+# New AI Meeting Notes Summarizer templates. Featuring image-recognition and object-detection — optimized for maximum performance.
 
 
 
